@@ -1,0 +1,14 @@
+colab = True # set to True when using Google Colab
+
+if colab:
+    %tensorflow_version 2.x
+
+import sys
+
+import numpy as np
+import matplotlib.pyplot as plt
+import IPython.display as ipyd
+import tensorflow as tf
+import collections
+import time
+
