@@ -6,8 +6,8 @@ if colab:
 import sys
 
 import numpy as np
-import matplotlib.pyplot as plt
-import IPython.display as ipyd
+import matplotlib.pyplot as plt # provides a MATLAB-like plotting framework
+import IPython.display as ipyd # this is the public API for display tools in IPython, with 23 classes and 16 functions
 import tensorflow as tf
 import collections
 import time
