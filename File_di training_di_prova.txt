@@ -1,0 +1,10 @@
+﻿1 Il servizio è buono
+0 Il servizio fa schifo
+1 Il presidente è bravo
+1 L’impiegata sa come far avvenire le cose
+0 Il prodotto non è buono
+1 il servizio è stato davvero ottimo! Complimenti!
+1 ottimo prodotto e servizio, brava l'impiegata
+0 che pena!
+0 che schifo :(
+0 ma che roba! vomitevole!
